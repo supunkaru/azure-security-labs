@@ -1,7 +1,7 @@
 # 🛡️ Lab 01 — Building a Free Microsoft Security Lab (Azure + Defender for Business + Intune)
 
 > A zero-cost, step-by-step guide to standing up a real Microsoft security environment for
-> hands-on SOC/SC-200 practice — no company tenant, no employer sponsorship, no paid subscription
+> hands-on SOC/SC-200 practice — no company tenant,no paid subscription
 > required beyond standard trial terms.
 
 Most people studying for SC-200 or breaking into a SOC role hit the same wall: enterprise tools
@@ -148,10 +148,10 @@ want for later labs (Conditional Access policies tied to device compliance, risk
 > you'll hit a wall of confusing errors (`CAA50024`, blank MDM URLs, "device management could not
 > be enabled") that look like configuration mistakes but are actually a licensing gap.
 >
-> **Fix:** Make sure you've explicitly activated the **Intune Plan 1** trial separately (above) —
+> **Fix:** Make sure you've explicitly activated the **Intune Plan 1** trial separately (above)
 > don't assume Defender for Business licensing covers it.
 >
-> Full diagnostic writeup: [Lab 03 — Intune Licensing Reality](../03-intune-licensing-reality/)
+
 
 ---
 
