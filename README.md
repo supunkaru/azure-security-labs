@@ -1,7 +1,7 @@
 # 🛡️ Lab 01 — Building a Free Microsoft Security Lab (Azure + Defender for Business + Intune)
 
 > A zero-cost, step-by-step guide to standing up a real Microsoft security environment for
-> hands-on SOC/SC-200 practice — no company tenant,no paid subscription
+> hands-on SOC/SC-200 practice no company tenant,no paid subscription
 > required beyond standard trial terms.
 
 Most people studying for SC-200 or breaking into a SOC role hit the same wall: enterprise tools
