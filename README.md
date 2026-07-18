@@ -31,29 +31,29 @@ Go to: **[azure.microsoft.com/get-started/azure-portal](https://azure.microsoft.
    - Already have a Microsoft account? Choose it directly.
    - Need to use a different account, or don't have one? Click **Use another account**
 
-![Azure portal signup](./images/01-azure-portal-signup.png)
-![Azure portal signup continued](./images/02-azure-portal-signup-continued.png)
+![Azure portal signup](./01-defender-for-business-setup/01-azure-portal-signup.png)
+![Azure portal signup continued](./01-defender-for-business-setup/02-azure-portal-signup-continued.png)
 
 3. *(Assuming you're starting fresh)* Choose **Create account**, then verify your email using the
    verification code Microsoft sends you
 
-![Microsoft account creation](./images/03-microsoft-account-creation.png)
+![Microsoft account creation](./01-defender-for-business-setup/03-microsoft-account-creation.png)
 
 4. Fill in your personal details — **select your country carefully**; this affects billing region
    and available services, and can't be easily changed later
 
-![Microsoft account creation step 2](./images/04-microsoft-account-creation-step2.png)
+![Microsoft account creation step 2](./01-defender-for-business-setup/04-microsoft-account-creation-step2.png)
 
 5. Complete the **human verification** step (phone/SMS or similar)
 
-![Microsoft account creation step 3](./images/05-microsoft-account-creation-step3.png)
+![Microsoft account creation step 3](./01-defender-for-business-setup/05-microsoft-account-creation-step3.png)
 
 6. Proceed to **create your Azure free account** — fill in your personal details accurately in the
    account creation section
 
-![Microsoft account creation step 4](./images/06-microsoft-account-creation-step4.png)
-![Azure account creation](./images/07-azure-account-creation.png)
-![Account creation confirmation](./images/08-account-creation-confirmation.png)
+![Microsoft account creation step 4](./01-defender-for-business-setup/06-microsoft-account-creation-step4.png)
+![Azure account creation](./01-defender-for-business-setup/07-azure-account-creation.png)
+![Account creation confirmation](./01-defender-for-business-setup/08-account-creation-confirmation.png)
 
 7. Add payment details to finish sign-up
 
@@ -62,7 +62,7 @@ Go to: **[azure.microsoft.com/get-started/azure-portal](https://azure.microsoft.
 > unless you explicitly opt in to pay-as-you-go pricing. Spending protection keeps your free
 > resources capped by default.
 
-![Azure portal overview](./images/09-azure-portal-overview.png)
+![Azure portal overview](./01-defender-for-business-setup/09-azure-portal-overview.png)
 
 ---
 
@@ -78,7 +78,7 @@ Go to: **[azure.microsoft.com/get-started/azure-portal](https://azure.microsoft.
 This gives you enough runway to explore capabilities and build real proofs of concept —
 plenty for a security lab.
 
-![Trial license activation](./images/10-trial-license-activation.png)
+![Trial license activation](./01-defender-for-business-setup/10-trial-license-activation.png)
 
 ---
 
@@ -99,8 +99,8 @@ Now switch to the **Microsoft 365 admin center**:
 
 2. Click **Activate trial**
 
-![Defender for Endpoint trial activation - step 1](./images/11-defender-endpoint-trial-activation-1.png)
-![Defender for Endpoint trial activation - step 2](./images/12-defender-endpoint-trial-activation-2.png)
+![Defender for Endpoint trial activation - step 1](./01-defender-for-business-setup/11-defender-endpoint-trial-activation-1.png)
+![Defender for Endpoint trial activation - step 2](./01-defender-for-business-setup/12-defender-endpoint-trial-activation-2.png)
 
 ### 📱 Microsoft Intune Plan 1
 
@@ -125,8 +125,8 @@ For a personal lab where you're testing device compliance and enrollment on your
 **Intune Plan 1 (per user)** is almost always the right choice — it lets one license cover
 multiple devices (your VM *and* your phone), unlike the Device variant.
 
-![Intune Trial Activation](./images/13-intune-trial-activation.png)
-![Intune Trial activation continued](./images/14-intune-trial-activation-2.png)
+![Intune Trial Activation](./01-defender-for-business-setup/13-intune-trial-activation.png)
+![Intune Trial activation continued](./01-defender-for-business-setup/14-intune-trial-activation-2.png)
 
 ### 🔑 Microsoft Entra ID P2
 
@@ -134,8 +134,8 @@ Same process — search the Marketplace for **Microsoft Entra ID P2** and activa
 This unlocks Conditional Access, Identity Protection, and advanced identity features you'll
 want for later labs (Conditional Access policies tied to device compliance, risk-based sign-in, etc.)
 
-![Entra ID Plan activation](./images/15-entra-id-plan-activation.png)
-![Entra ID P2 license confirmation](./images/16-entra-id-p2-license-confirmation.png)
+![Entra ID Plan activation](./01-defender-for-business-setup/15-entra-id-plan-activation.png)
+![Entra ID P2 license confirmation](./01-defender-for-business-setup/16-entra-id-p2-license-confirmation.png)
 
 ---
 
