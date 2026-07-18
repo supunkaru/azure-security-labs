@@ -164,10 +164,5 @@ real security telemetry.
 
 ---
 
-## 👤 About This Guide
-
-Written by a Cyber Security Analyst transitioning into SOC/Security Analyst roles, documenting
-real hands-on lab work — including the mistakes — for others studying toward SC-200 or building
-a security portfolio from scratch.
 
 [Back to Profile](https://github.com/supunkaru) | [Other Labs](../)
