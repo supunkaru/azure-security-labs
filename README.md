@@ -16,7 +16,7 @@ licensing traps that aren't obvious until you hit them.
 | Component | Purpose |
 |---|---|
 | ☁️ Azure Free Account | Foundation tenant + USD 200 credit |
-| 🛡️ Microsoft Defender for Business (trial) | EDR/endpoint security — the core of this lab |
+| 🛡️ Microsoft Defender for Business (trial) | EDR/endpoint security the core of this lab |
 | 📱 Microsoft Intune Plan 1 (trial) | Device management (see licensing notes below) |
 | 🔐 Microsoft Entra ID P2 (trial) | Identity, Conditional Access, advanced identity protection |
 
@@ -39,7 +39,7 @@ Go to: **[azure.microsoft.com/get-started/azure-portal](https://azure.microsoft.
 
 ![Microsoft account creation](01-defender-for-business-setup/images/03-microsoft-account-creation.png)
 
-4. Fill in your personal details — **select your country carefully**; this affects billing region
+4. Fill in your personal details **select your country carefully**; this affects billing region
    and available services, and can't be easily changed later
 
 ![Microsoft account creation step 2](01-defender-for-business-setup/images/04-microsoft-account-creation-step2.png)
@@ -48,7 +48,7 @@ Go to: **[azure.microsoft.com/get-started/azure-portal](https://azure.microsoft.
 
 ![Microsoft account creation step 3](01-defender-for-business-setup/images/05-microsoft-account-creation-step3.png)
 
-6. Proceed to **create your Azure free account** — fill in your personal details accurately in the
+6. Proceed to **create your Azure free account** fill in your personal details accurately in the
    account creation section
 
 ![Microsoft account creation step 4](01-defender-for-business-setup/images/06-microsoft-account-creation-step4.png)
@@ -57,7 +57,7 @@ Go to: **[azure.microsoft.com/get-started/azure-portal](https://azure.microsoft.
 
 7. Add payment details to finish sign-up
 
-> ⚠️ **Important — you will not be charged.**
+> ⚠️ **Important you will not be charged.**
 > Azure requires a card on file for identity verification, but **you won't be billed automatically**
 > unless you explicitly opt in to pay-as-you-go pricing. Spending protection keeps your free
 > resources capped by default.
@@ -94,7 +94,7 @@ Now switch to the **Microsoft 365 admin center**:
 
 > 💡 **Why this one specifically:** Other Defender SKUs (Defender for Office 365, Defender for
 > Cloud, etc.) can incur cost immediately or require additional configuration. Defender for
-> Business is the right starting point for a free lab — it's built for smaller environments and
+> Business is the right starting point for a free lab it's built for smaller environments and
 > its trial is genuinely free for the trial period.
 
 2. Click **Activate trial**
@@ -130,7 +130,7 @@ multiple devices (your VM *and* your phone), unlike the Device variant.
 
 ### 🔑 Microsoft Entra ID P2
 
-Same process — search the Marketplace for **Microsoft Entra ID P2** and activate the trial.
+Same process search the Marketplace for **Microsoft Entra ID P2** and activate the trial.
 This unlocks Conditional Access, Identity Protection, and advanced identity features you'll
 want for later labs (Conditional Access policies tied to device compliance, risk-based sign-in, etc.)
 
