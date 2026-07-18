@@ -31,7 +31,7 @@ Go to: **[azure.microsoft.com/get-started/azure-portal](https://azure.microsoft.
    - Already have a Microsoft account? Choose it directly.
    - Need to use a different account, or don't have one? Click **Use another account**
 
-![Azure portal signup](01-defender-for-business-setup  /images/01-azure-portal-signup.png)
+![Azure portal signup](01-defender-for-business-setup/images/01-azure-portal-signup.png)
 ![Azure portal signup continued](01-defender-for-business-setup  /images/02-azure-portal-signup-continued.png)
 
 3. *(Assuming you're starting fresh)* Choose **Create account**, then verify your email using the
