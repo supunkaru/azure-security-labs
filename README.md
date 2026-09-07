@@ -157,12 +157,31 @@ want for later labs (Conditional Access policies tied to device compliance, risk
 
 ## ✅ What's Next
 
-With all three trials active, you're ready to onboard your first devices and start generating
-real security telemetry.
+Your Microsoft security lab environment is now ready for device onboarding.
 
-→ Continue to **[Lab 02: Device Onboarding](../02-device-onboarding/)**
+The required Microsoft security services are available through the active subscriptions/trials in your tenant, including:
+
+- **Microsoft 365 Business Premium** — provides Microsoft Intune and Microsoft Defender for Business capabilities.
+- **Microsoft Defender for Cloud Apps** — provides cloud application visibility and security monitoring.
+- **Microsoft Defender for Office 365 Plan 2** — provides advanced protection for email and collaboration services.
+- **Office 365 E5** — provides additional Microsoft 365 security and compliance capabilities.
+
+![Active Microsoft 365 security licenses](01-defender-for-business-setup/images/17-licenses.png.png)
+
+> **Lab Recommendation:** To get the most value from the upcoming labs, it is recommended that you activate the relevant Microsoft security products available as **trial subscriptions** in your tenant. The additional services will be used in later labs to explore endpoint protection, identity security, cloud application security, email security, and Microsoft Sentinel integration.
+
+With the recommended trial licenses activated, you can continue with the device onboarding and security configuration labs.
+
+### 🚀 Next Labs
+
+→ Continue to **[Lab 02: Microsoft Defender XDR — SOC Alert Investigation](../02-defender-xdr-alert-investigation/)**
+
+→ **Lab 03: Intune Licensing Reality** — Coming soon
+
+→ **Lab 04: Microsoft Defender XDR & Advanced Hunting** — Coming soon
+
+→ **Lab 05: Microsoft Sentinel & KQL** — Coming soon
 
 ---
-
 
 [Back to Profile](https://github.com/supunkaru) | [Other Labs](../)
