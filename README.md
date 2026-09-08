@@ -174,7 +174,7 @@ With the recommended trial licenses activated, you can continue with the device 
 
 ### 🚀 Next Labs
 
-→ Continue to **[Lab 02: Microsoft Defender XDR — SOC Alert Investigation](../02-defender-xdr-alert-investigation/)**
+→ Continue to **[Lab 02: Microsoft Defender XDR — SOC Alert Investigation](https://github.com/supunkaru/azure-security-labs/tree/main/02-defender-xdr-alert-investigation)**
 
 → **Lab 03: Intune Licensing Reality** — Coming soon
 
