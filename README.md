@@ -1,4 +1,4 @@
-# 🛡️ Lab 01 — Building a Free Microsoft Security Lab (Azure + Defender for Business + Intune)
+# 🛡️ Lab 01 - Building a Free Microsoft Security Lab (Azure + Defender for Business + Intune)
 
 > A zero-cost, step-by-step guide to standing up a real Microsoft security environment for
 > hands-on SOC/SC-200 practice no company tenant,no paid subscription
@@ -75,7 +75,7 @@ Go to: **[azure.microsoft.com/get-started/azure-portal](https://azure.microsoft.
 | ♾️ Always-free services | Free monthly amounts of 65+ always-free services |
 | 🔒 Spending protection | Your card won't be automatically charged until you move to pay-as-you-go |
 
-This gives you enough runway to explore capabilities and build real proofs of concept —
+This gives you enough runway to explore capabilities and build real proofs of concept -
 plenty for a security lab.
 
 ![Trial license activation](01-defender-for-business-setup/images/10-trial-license-activation.png)
@@ -107,10 +107,10 @@ Now switch to the **Microsoft 365 admin center**:
 Go back to the Marketplace and search for **Microsoft Intune Plan 1**. Inside that listing,
 you'll be asked to choose between two variants:
 
-- **Microsoft Intune Plan 1 (trial)** — per-user licensing
-- **Microsoft Intune Plan 1 Device** — per-device licensing
+- **Microsoft Intune Plan 1 (trial)** - per-user licensing
+- **Microsoft Intune Plan 1 Device** - per-device licensing
 
-**Comparison table — know which one you actually need before activating:**
+**Comparison table - know which one you actually need before activating:**
 
 | Feature | Microsoft Intune Plan 1 | Microsoft Intune Plan 1 Device |
 |---|---|---|
@@ -122,7 +122,7 @@ you'll be asked to choose between two variants:
 | **Typical use** | Company laptops, personal phones, tablets | Reception PCs, meeting room PCs, digital signage, classroom devices |
 
 For a personal lab where you're testing device compliance and enrollment on your own devices,
-**Intune Plan 1 (per user)** is almost always the right choice — it lets one license cover
+**Intune Plan 1 (per user)** is almost always the right choice - it lets one license cover
 multiple devices (your VM *and* your phone), unlike the Device variant.
 
 ![Intune Trial Activation](01-defender-for-business-setup/images/13-intune-trial-activation.png)
@@ -161,10 +161,10 @@ Your Microsoft security lab environment is now ready for device onboarding.
 
 The required Microsoft security services are available through the active subscriptions/trials in your tenant, including:
 
-- **Microsoft 365 Business Premium** — provides Microsoft Intune and Microsoft Defender for Business capabilities.
-- **Microsoft Defender for Cloud Apps** — provides cloud application visibility and security monitoring.
-- **Microsoft Defender for Office 365 Plan 2** — provides advanced protection for email and collaboration services.
-- **Office 365 E5** — provides additional Microsoft 365 security and compliance capabilities.
+- **Microsoft 365 Business Premium** - provides Microsoft Intune and Microsoft Defender for Business capabilities.
+- **Microsoft Defender for Cloud Apps** - provides cloud application visibility and security monitoring.
+- **Microsoft Defender for Office 365 Plan 2** - provides advanced protection for email and collaboration services.
+- **Office 365 E5** - provides additional Microsoft 365 security and compliance capabilities.
 
 ![Active Microsoft 365 security licenses](01-defender-for-business-setup/images/17-licenses.png.png)
 
@@ -174,13 +174,13 @@ With the recommended trial licenses activated, you can continue with the device 
 
 ### 🚀 Next Labs
 
-→ Continue to **[Lab 02: Microsoft Defender XDR — SOC Alert Investigation](https://github.com/supunkaru/azure-security-labs/tree/main/02-defender-xdr-alert-investigation)**
+→ Continue to **[Lab 02: Microsoft Defender XDR - SOC Alert Investigation](https://github.com/supunkaru/azure-security-labs/tree/main/02-defender-xdr-alert-investigation)**
 
-→ **Lab 03: Intune Licensing Reality** — Coming soon
+→ **Lab 03: Microsoft Defender XDR & Advanced Hunting** - Coming soon
 
-→ **Lab 04: Microsoft Defender XDR & Advanced Hunting** — Coming soon
 
-→ **Lab 05: Microsoft Sentinel & KQL** — Coming soon
+
+→ **Lab 05: Microsoft Sentinel & KQL** - Coming soon
 
 ---
 
